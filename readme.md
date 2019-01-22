@@ -25,4 +25,4 @@ eBusTicket is an online bus ticket booking system using laravel.
 
 ## License
 
-e-Bus Ticket is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+eBusTicket is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
